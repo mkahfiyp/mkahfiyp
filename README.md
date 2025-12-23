@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **nextjs, flutter, expressjs**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **anything related to web, mobile, or programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
